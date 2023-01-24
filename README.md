@@ -9,11 +9,9 @@
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>&nbsp; |
 </p>
 
-<div align="center">
-    <h3> my statistics</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=AppleSatin&show_icons=true&theme=jolly&count_private=true" /><br /><br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AppleSatin&layout=compact&theme=jolly&count_private=true" /><br />
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/AppleSatin/Profile-Stats/master/generated/overview.svg"> <img src="https://raw.githubusercontent.com/AppleSatin/Profile-Stats/master/generated/languages.svg">
+</p>
 
 <p align="center">
     <br>Number of views: <br>
