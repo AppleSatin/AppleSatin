@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AppleSatin/Profile-Stats/master/generated/overview.svg"> <img src="https://raw.githubusercontent.com/AppleSatin/Profile-Stats/master/generated/languages.svg">
+<img src="https://raw.githubusercontent.com/AppleSatin/Profile-Stats/master/generated/overview.svg"> <img src="https://github.com/AppleSatin/Profile-Stats/blob/master/generated/languages.svg">
 </p>
 
 <p align="center">
