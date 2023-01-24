@@ -5,13 +5,9 @@
 
 <h1 align="center">LANGUAGE</h1>
 
-<p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>&nbsp; |
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AppleSatin/Profile-Stats/master/generated/overview.svg"> <img src="https://github.com/AppleSatin/Profile-Stats/blob/master/generated/languages.svg">
-</p>
+## Github Stats
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=AppleSatin&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AppleSatin&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
 <p align="center">
     <br>Number of views: <br>
